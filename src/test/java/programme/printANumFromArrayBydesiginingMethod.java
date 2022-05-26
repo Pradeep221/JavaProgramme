@@ -3,7 +3,7 @@ package programme;
 public class printANumFromArrayBydesiginingMethod {
 
 	public static void main(String[] args) {
-		int m=test(5);
+		int m=test(2);
 		System.out.println(m);
 	}
 	
